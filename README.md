@@ -27,8 +27,7 @@ O dashboard foi criado a partir dos dados brutos contidos no arquivo `base.xlsx`
 2. Crie gráficos e tabelas dinâmicas para gerar o dashboard.
 3. Salve o arquivo finalizado como `dashboard_xbox_finalizado.xlsx`.
 
-## Licença
+## Prévia do Dashboard
 
-Licenciado sob a licença MIT.
-
+![Prévia do Dashboard](https://github.com/LudmilaRamos/dashboard_dio/blob/main/previa_dashboard.png)
 
